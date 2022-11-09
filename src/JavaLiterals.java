@@ -1,4 +1,4 @@
-public class java_literals {
+public class JavaLiterals {
     public static void main(String[] args) {
         byte age = 110; // type is byte so value is always between -127 to 128
         int age1 = 217987;
