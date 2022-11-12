@@ -3,7 +3,7 @@ public class JavaOperators {
         //Learning operators
 
         //Arithmetic Operators
-        System.out.println("Arithmatic Operators");
+        System.out.println("Arithmetic Operators");
         System.out.println(2+4 + " is sum of 2 and 4");
         System.out.println(2-4 + " is difference of 2 and 4");
         System.out.println(2*4 + " is multiplication of 2 and 4");
